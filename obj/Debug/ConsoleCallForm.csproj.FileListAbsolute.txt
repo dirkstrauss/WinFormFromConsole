@@ -7,3 +7,12 @@ c:\users\dirk strauss\documents\visual studio 2017\Projects\ConsoleCallForm\bin\
 c:\users\dirk strauss\documents\visual studio 2017\Projects\ConsoleCallForm\obj\Debug\ConsoleCallForm.csprojResolveAssemblyReference.cache
 c:\users\dirk strauss\documents\visual studio 2017\Projects\ConsoleCallForm\obj\Debug\ConsoleCallForm.exe
 c:\users\dirk strauss\documents\visual studio 2017\Projects\ConsoleCallForm\obj\Debug\ConsoleCallForm.pdb
+C:\z_Elysium\WinFormFromConsole\bin\Debug\ConsoleCallForm.exe.config
+C:\z_Elysium\WinFormFromConsole\bin\Debug\ConsoleCallForm.exe
+C:\z_Elysium\WinFormFromConsole\bin\Debug\ConsoleCallForm.pdb
+C:\z_Elysium\WinFormFromConsole\bin\Debug\WindowsFormsApp2.exe
+C:\z_Elysium\WinFormFromConsole\bin\Debug\WindowsFormsApp2.pdb
+C:\z_Elysium\WinFormFromConsole\bin\Debug\WindowsFormsApp2.exe.config
+C:\z_Elysium\WinFormFromConsole\obj\Debug\ConsoleCallForm.csprojResolveAssemblyReference.cache
+C:\z_Elysium\WinFormFromConsole\obj\Debug\ConsoleCallForm.exe
+C:\z_Elysium\WinFormFromConsole\obj\Debug\ConsoleCallForm.pdb
